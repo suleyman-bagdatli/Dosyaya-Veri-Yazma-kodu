@@ -1,0 +1,1 @@
+# Dosyaya-Veri-Yazma-kodu
